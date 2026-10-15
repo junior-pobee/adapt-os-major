@@ -35,11 +35,11 @@
 
   <br><br>
 
-  <a href="https://github.com/junior-pobe">
-    <img src="https://img.shields.io/badge/GitHub-junior--pobe-181717?style=flat-square&logo=github" alt="GitHub profile">
+  <a href="https://github.com/junior-pobee">
+    <img src="https://img.shields.io/badge/GitHub-junior--pobee-181717?style=flat-square&logo=github" alt="GitHub profile">
   </a>
 
-  <a href="https://github.com/junior-pobe/adapt-os-major">
+  <a href="https://github.com/junior-pobee/adapt-os-major">
     <img src="https://img.shields.io/badge/Repository-adapt--os--major-0969DA?style=flat-square&logo=github" alt="Repository">
   </a>
 
